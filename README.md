@@ -1,17 +1,17 @@
-# iraq-report
+# iraq-reports
 
 イラク日報全文検索 CLI
 
 ## Usage
 
 ```
-$ iraq-report [word]
+$ iraq-reports [word]
 ```
 
 ## Installation
 
 ```
-$ go get github.com/mattn/iraq-report
+$ go get github.com/mattn/iraq-reports
 ```
 
 ## License
